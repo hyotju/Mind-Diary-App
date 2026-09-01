@@ -1,0 +1,10 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="28" height="28" viewBox="0 0 28 28" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="famicons:trash-outline">
+<path id="Vector" d="M6.125 6.125L7.21875 23.625C7.2707 24.6362 8.00625 25.375 8.96875 25.375H19.0312C19.9976 25.375 20.7195 24.6362 20.7812 23.625L21.875 6.125" stroke="var(--stroke-0, #707070)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<g id="Vector_2">
+<path d="M4.375 6.125H23.625Z" fill="var(--fill-0, #707070)"/>
+<path d="M4.375 6.125H23.625" stroke="var(--stroke-0, #707070)" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round"/>
+</g>
+<path id="Vector_3" d="M10.5 6.125V3.9375C10.4995 3.765 10.5331 3.5941 10.5989 3.43463C10.6647 3.27516 10.7613 3.13027 10.8833 3.0083C11.0053 2.88632 11.1502 2.78966 11.3096 2.72388C11.4691 2.6581 11.64 2.62449 11.8125 2.625H16.1875C16.36 2.62449 16.5309 2.6581 16.6904 2.72388C16.8498 2.78966 16.9947 2.88632 17.1167 3.0083C17.2387 3.13027 17.3353 3.27516 17.4011 3.43463C17.4669 3.5941 17.5005 3.765 17.5 3.9375V6.125M14 9.625V21.875M10.0625 9.625L10.5 21.875M17.9375 9.625L17.5 21.875" stroke="var(--stroke-0, #707070)" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</svg>

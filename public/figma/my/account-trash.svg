@@ -1,0 +1,10 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="famicons:trash-outline">
+<path id="Vector" d="M10.5 10.5L12.375 40.5C12.4641 42.2334 13.725 43.5 15.375 43.5H32.625C34.2816 43.5 35.5191 42.2334 35.625 40.5L37.5 10.5" stroke="#FE7023" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<g id="Vector_2">
+<path d="M7.5 10.5H40.5Z" fill="#FE7023"/>
+<path d="M7.5 10.5H40.5" stroke="#FE7023" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round"/>
+</g>
+<path id="Vector_3" d="M18 10.5V6.75C17.9991 6.45428 18.0567 6.16131 18.1695 5.88794C18.2823 5.61456 18.448 5.36618 18.6571 5.15708C18.8662 4.94797 19.1146 4.78227 19.3879 4.66951C19.6613 4.55674 19.9543 4.49913 20.25 4.5H27.75C28.0457 4.49913 28.3387 4.55674 28.6121 4.66951C28.8854 4.78227 29.1338 4.94797 29.3429 5.15708C29.552 5.36618 29.7177 5.61456 29.8305 5.88794C29.9433 6.16131 30.0009 6.45428 30 6.75V10.5M24 16.5V37.5M17.25 16.5L18 37.5M30.75 16.5L30 37.5" stroke="#FE7023" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</svg>
